@@ -8,7 +8,7 @@ The report is built around a sales dataset and supporting lookup tables. It incl
 
 Watch the complete project walkthrough to explore the dashboard, its interactive features, sales insights, customer analysis and visualizations.
 
-▶️ [Watch the Company Sales & Customer Analytics Dashboard Demo on YouTube] Link: https://www.youtube.com/watch?v=t14caBEoko4
+▶️ [Watch the Company Sales & Customer Analytics Dashboard Demo on YouTube](https://www.youtube.com/watch?v=t14caBEoko4)
 
 ## Project objectives
 
