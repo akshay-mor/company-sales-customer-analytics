@@ -4,6 +4,12 @@ An interactive Power BI business intelligence project built to analyze company s
 
 The report is built around a sales dataset and supporting lookup tables. It includes an executive dashboard, geographic sales view, product drill-through page, customer insights page and a hidden custom tooltip page.
 
+## 🎥 Project Demo (Video Walkthrough)
+
+Watch the complete project walkthrough to explore the dashboard, its interactive features, sales insights, customer analysis and visualizations.
+
+▶️ [Watch the Company Sales & Customer Analytics Dashboard Demo on YouTube] Link: https://www.youtube.com/watch?v=t14caBEoko4
+
 ## Project objectives
 
 - Monitor overall business performance through revenue, profit, orders and return KPIs.
